@@ -4,7 +4,7 @@ const bot = mineflayer.createBot({
     host: 'ir.skyblock.uz',
     port: 25566,
     version: 1.17,
-    username: 'Jabikminer_3'
+    username: 'botFazliddinov_4'
 })
 
 let password = "jobir2009" // sizning parolingiz
